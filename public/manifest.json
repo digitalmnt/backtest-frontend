@@ -1,0 +1,13 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://ranges.fi",
+  "providedBy": { "name": "Ranges", "url": "http://ranges.fi" },
+  "orientation": "portrait",
+  "name": "Ranges",
+  "description": "Backtest Uniswap V3 Liquidity Positions",
+  "iconPath": "./images/256x256_App_Icon_Pink.svg",
+  "short_name": "Ranges",
+  "start_url": ".",
+  "theme_color": "#ff007a"
+}
